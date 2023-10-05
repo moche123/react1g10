@@ -1,0 +1,15 @@
+.card-wrapper{
+    border: 1px solid red;
+    padding: 1rem;  /* 1rem => 16px */
+}
+
+.light{
+    background-color: rgb(216, 216, 163);
+    color: blue;
+}
+
+
+.dark{
+    background-color: blue;
+    color: rgb(216, 216, 163);
+}
